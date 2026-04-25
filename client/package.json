@@ -13,6 +13,8 @@
     "@clerk/nextjs": "^6.32.0",
     "@clerk/themes": "^2.4.19",
     "@prisma/client": "^6.16.2",
+    "@supabase/ssr": "^0.10.2",
+    "@supabase/supabase-js": "^2.104.1",
     "dotenv": "^17.2.2",
     "next": "15.5.3",
     "pg": "^8.16.3",

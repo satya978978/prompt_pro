@@ -83,7 +83,7 @@ function PricingSection() {
         "Team collaboration"
       ],
       buttonText: "Start Free Trial"
-    }
+    },
   ]
 
   return (
